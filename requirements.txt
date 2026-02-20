@@ -1,0 +1,4 @@
+typer>=0.15.0
+rich>=13.7.0
+matplotlib>=3.8.0
+pyyaml>=6.0.1
